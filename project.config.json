@@ -1,0 +1,52 @@
+{
+  "description": "2048 wx game",
+  "packOptions": {
+    "ignore": [
+      { "type": "folder", "value": "dist" },
+      { "type": "folder", "value": "node_modules" },
+      { "type": "folder", "value": "src" },
+      { "type": "folder", "value": "pages" },
+      { "type": "folder", "value": "components" },
+      { "type": "folder", "value": "store" },
+      { "type": "folder", "value": "utils" },
+      { "type": "folder", "value": "static" },
+      { "type": "file", "value": "App.vue" },
+      { "type": "file", "value": "main.js" },
+      { "type": "file", "value": "manifest.json" },
+      { "type": "file", "value": "pages.json" },
+      { "type": "file", "value": "uni.scss" },
+      { "type": "file", "value": "vite.config.js" },
+      { "type": "file", "value": "package.json" },
+      { "type": "file", "value": "package-lock.json" }
+    ]
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "minified": false,
+    "postcss": false,
+    "newFeature": true
+  },
+  "compileType": "game",
+  "libVersion": "",
+  "appid": "wxf1045b511f3b04b8",
+  "projectname": "wxgame-2048",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": -1,
+      "list": []
+    }
+  }
+}

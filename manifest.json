@@ -1,0 +1,21 @@
+﻿{
+    "name":  "2048-mini",
+    "appid":  "wxf1045b511f3b04b8",
+    "description":  "2048 mini program built with uni-app",
+    "versionName":  "1.0.0",
+    "versionCode":  "100",
+    "transformPx":  false,
+    "app-plus":  {
+                     "usingComponents":  true
+                 },
+    "mp-weixin":  {
+                      "appid":  "wxf1045b511f3b04b8",
+                      "setting":  {
+                                      "urlCheck":  false
+                                  },
+                      "usingComponents":  true
+                  },
+    "h5":  {
+               "title":  "2048"
+           }
+}
